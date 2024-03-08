@@ -1,5 +1,5 @@
 {
-  "name": "gm-palette",
+  "name": "",
   "description": "Dominant color and palette using graphicsmagick.",
   "author": "Akash Dathan",
   "version": "1.1.0",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akashdathan/gm-palette.git"
+    "url": "git+https://github.com/viennguyenbkdn/gm-palette.git"
   },
   "keywords": [
     "dominant color",
@@ -25,9 +25,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/akashdathan/gm-palette/issues"
+    "url": "https://github.com/viennguyenbkdn/gm-palette/issues"
   },
-  "homepage": "https://github.com/akashdathan/gm-palette#readme",
+  "homepage": "https://github.com/viennguyenbkdn/gm-palette#readme",
   "dependencies": {
     "gm": "^1.23.1",
     "lodash": "^4.17.4"
